@@ -1,2 +1,2 @@
 # APP-Mylandx
-this app for a manage your time at study or do and work somthing
+this app for a manage your time at study or do and work somthing just on fedora linux
